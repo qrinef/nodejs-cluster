@@ -2,7 +2,7 @@
   "name": "nodejs-cluster",
   "version": "1.0.0",
   "scripts": {
-    "start": "node ./app"
+    "start": "node ./src/app"
   },
   "author": "qrinef",
   "license": "MIT",
