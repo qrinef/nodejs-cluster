@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-cluster",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node ./app"
+  },
+  "author": "qrinef",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^3.0.2"
+  }
+}
